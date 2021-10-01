@@ -1,4 +1,5 @@
 X直播电视台 youtube油管 频道
+TVB星河,http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
 
 
 央视高清,#genre#
@@ -180,10 +181,10 @@ Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-
+韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
 罪案侦探,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
+韩国娱乐台,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
 TVB1,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
 CNN-HD,p5p://0198.02686.cc:16871/5d1a69730008fd4d11bce0a61466a553.ts
 CnnNews,p5p://0198.02686.cc:16871/5f39fb9800041bef4af7f8195646fb88.ts
@@ -196,7 +197,7 @@ BBC News,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
 NBA,p5p://0198.02686.cc:16871/5f39facc0006e0f04af4dbef79c0756f.ts
 cp24,p5p://0198.02686.cc:16871/5f39f90b0005c8064aee01bf8be4cbde.ts
 
-韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+
 
 FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
 FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
